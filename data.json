@@ -36,6 +36,62 @@
                 "ig": "12:00"
             }
         ],
+        "szolgaltatasok": [
+            {
+                "nev": "női hajvágás",
+                "idotartam": "30 perc"
+            },
+            {
+                "nev": "férfi hajvágás",
+                "idotartam": "20 perc"
+            },
+            {
+                "nev": "gyermek hajvágás",
+                "idotartam": "15 perc"
+            },
+            {
+                "nev": "hajkezelés: keratin",
+                "idotartam": "180 perc"
+            },
+            {
+                "nev": "hajkezelés: repair iron",
+                "idotartam": "130 perc"
+            },
+            {
+                "nev": "hajfestés: ombre",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: teli",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: balayage",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: babylights",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "konzultáció",
+                "idotartam": "10 perc"
+            }
+        ],
+        "idopontok": [
+            {
+                "datum": "2023.09.01",
+                "ora": "10:00"
+            },
+            {
+                "datum": "2023.09.02",
+                "ora": "14:00"
+            },
+            {
+                "datum": "2023.09.03",
+                "ora": "11:00"
+            }
+        ],
         "foglalas": [
             {
                 "vendegNev": "Kovács Csilla",
@@ -86,6 +142,94 @@
                 "ig": "17:00"
             }
         ],
+        "szolgaltatasok": [
+            {
+                "nev": "női hajvágás",
+                "idotartam": "30 perc"
+            },
+            {
+                "nev": "férfi hajvágás",
+                "idotartam": "20 perc"
+            },
+            {
+                "nev": "hajkezelés: keratin",
+                "idotartam": "180 perc"
+            },
+            {
+                "nev": "hajkezelés: repair iron",
+                "idotartam": "130 perc"
+            },
+            {
+                "nev": "hajfestés: balayage",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: babylights",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "borbély: bajusz",
+                "idotartam": "20 perc"
+            },
+            {
+                "nev": "borbély: szakáll",
+                "idotartam": "30 perc"
+            },
+            {
+                "nev": "borbély: full face",
+                "idotartam": "100 perc"
+            },
+            {
+                "nev": "konzultáció",
+                "idotartam": "10 perc"
+            }
+        ],
+        "idopontok": [
+            {
+                "datum": "2023.09.01",
+                "ora": "9:30"
+            },
+            {
+                "datum": "2023.09.01",
+                "ora": "10:00"
+            },
+            {
+                "datum": "2023.09.01",
+                "ora": "10:30"
+            },
+            {
+                "datum": "2023.09.02",
+                "ora": "9:30"
+            },
+            {
+                "datum": "2023.09.02",
+                "ora": "10:00"
+            },
+            {
+                "datum": "2023.09.02",
+                "ora": "10:30"
+            },
+            {
+                "datum": "2023.09.03",
+                "ora": "9:30"
+            },
+            {
+                "datum": "2023.09.03",
+                "ora": "10:00"
+            },
+            {
+                "datum": "2023.09.03",
+                "ora": "10:30"
+            },
+            {
+                "datum": "2023.09.04",
+                "ora": "9:30"
+            },
+            {
+                "datum": "2023.09.04",
+                "ora": "10:00"
+            }
+        ],
         "foglalas": [
             {
                 "vendegNev": "Kis Anna",
@@ -122,6 +266,86 @@
                 "napIndex": 5,
                 "tol": "12:00",
                 "ig": "20:00"
+            }
+        ],
+        "szolgaltatasok": [
+            {
+                "nev": "női hajvágás",
+                "idotartam": "30 perc"
+            },
+            {
+                "nev": "férfi hajvágás",
+                "idotartam": "20 perc"
+            },
+            {
+                "nev": "hajfestés: ombre",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: teli",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: balayage",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: melírozás",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: babylights",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "konzultáció",
+                "idotartam": "10 perc"
+            }
+        ],
+        "idopontok": [
+            {
+                "datum": "2023.09.05",
+                "ora": "12:30"
+            },
+            {
+                "datum": "2023.09.05",
+                "ora": "14:00"
+            },
+            {
+                "datum": "2023.09.05",
+                "ora": "15:30"
+            },
+            {
+                "datum": "2023.09.06",
+                "ora": "12:30"
+            },
+            {
+                "datum": "2023.09.06",
+                "ora": "14:00"
+            },
+            {
+                "datum": "2023.09.06",
+                "ora": "15:30"
+            },
+            {
+                "datum": "2023.09.07",
+                "ora": "12:30"
+            },
+            {
+                "datum": "2023.09.07",
+                "ora": "14:00"
+            },
+            {
+                "datum": "2023.09.07",
+                "ora": "15:30"
+            },
+            {
+                "datum": "2023.09.08",
+                "ora": "12:30"
+            },
+            {
+                "datum": "2023.09.08",
+                "ora": "14:00"
             }
         ],
         "foglalas": [
@@ -168,6 +392,94 @@
                 "ig": "14:00"
             }
         ],
+        "szolgaltatasok": [
+            {
+                "nev": "női hajvágás",
+                "idotartam": "30 perc"
+            },
+            {
+                "nev": "férfi hajvágás",
+                "idotartam": "20 perc"
+            },
+            {
+                "nev": "hajkezelés: keratin",
+                "idotartam": "180 perc"
+            },
+            {
+                "nev": "hajkezelés: repair iron",
+                "idotartam": "130 perc"
+            },
+            {
+                "nev": "hajfestés: ombre",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: teli",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: balayage",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "alkalmi haj:szalgavató",
+                "idotartam": "180 perc"
+            },
+            {
+                "nev": "alkalmi haj:esküvő",
+                "idotartam": "220 perc"
+            },
+            {
+                "nev": "konzultáció",
+                "idotartam": "10 perc"
+            }
+        ],
+        "idopontok": [
+            {
+                "datum": "2023.09.09",
+                "ora": "11:30"
+            },
+            {
+                "datum": "2023.09.09",
+                "ora": "13:00"
+            },
+            {
+                "datum": "2023.09.09",
+                "ora": "14:30"
+            },
+            {
+                "datum": "2023.09.10",
+                "ora": "11:30"
+            },
+            {
+                "datum": "2023.09.10",
+                "ora": "13:00"
+            },
+            {
+                "datum": "2023.09.10",
+                "ora": "14:30"
+            },
+            {
+                "datum": "2023.09.11",
+                "ora": "11:30"
+            },
+            {
+                "datum": "2023.09.11",
+                "ora": "13:00"
+            },
+            {
+                "datum": "2023.09.11",
+                "ora": "14:30"
+            },
+            {
+                "datum": "2023.09.12",
+                "ora": "11:30"
+            },
+            {
+                "datum": "2023.09.12",
+                "ora": "13:00"
+            }
+        ],
         "foglalas": [
             {
                 "vendegNev": "Horváth Péter",
@@ -204,6 +516,82 @@
                 "napIndex": 6,
                 "tol": "8:00",
                 "ig": "14:00"
+            }
+        ],
+        "szolgaltatasok": [
+            {
+                "nev": "női hajvágás",
+                "idotartam": "30 perc"
+            },
+            {
+                "nev": "gyermek hajvágás",
+                "idotartam": "15 perc"
+            },
+            {
+                "nev": "hajkezelés: keratin",
+                "idotartam": "180 perc"
+            },
+            {
+                "nev": "hajkezelés: repair iron",
+                "idotartam": "130 perc"
+            },
+            {
+                "nev": "hajfestés: teli",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "hajfestés: melírozás",
+                "idotartam": "120 perc"
+            },
+            {
+                "nev": "konzultáció",
+                "idotartam": "10 perc"
+            }
+        ],
+        "idopontok": [
+            {
+                "datum": "2023.09.13",
+                "ora": "10:00"
+            },
+            {
+                "datum": "2023.09.13",
+                "ora": "11:00"
+            },
+            {
+                "datum": "2023.09.13",
+                "ora": "12:00"
+            },
+            {
+                "datum": "2023.09.15",
+                "ora": "10:00"
+            },
+            {
+                "datum": "2023.09.15",
+                "ora": "11:00"
+            },
+            {
+                "datum": "2023.09.15",
+                "ora": "12:00"
+            },
+            {
+                "datum": "2023.09.16",
+                "ora": "10:00"
+            },
+            {
+                "datum": "2023.09.16",
+                "ora": "11:00"
+            },
+            {
+                "datum": "2023.09.16",
+                "ora": "12:00"
+            },
+            {
+                "datum": "2023.09.17",
+                "ora": "10:00"
+            },
+            {
+                "datum": "2023.09.17",
+                "ora": "11:00"
             }
         ],
         "foglalas": [
