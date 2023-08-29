@@ -3,6 +3,7 @@
         "id": 1,
         "nev": "Vásáry Izabella",
         "img": "img/hambi-5.jpg",
+        "pozicio": "mesterfodrász és hajápolási szakértő",
         "nyitvatartas": [
             {
                 "nap": "Hétfő",
@@ -52,6 +53,7 @@
         "id": 2,
         "nev": "Mester Manó",
         "img": "img/hambi-1.jpg",
+        "pozicio": "mesterfodrász és borbély",
         "nyitvatartas": [
             {
                 "nap": "Hétfő",
@@ -101,6 +103,7 @@
         "id": 3,
         "nev": "Hegyi Henrietta",
         "img": "img/hambi-3.jpg",
+        "pozicio": "női fodrász és színszakértő",
         "nyitvatartas": [
             {
                 "nap": "Hétfő",
@@ -138,6 +141,7 @@
         "id": 4,
         "nev": "Vígh Szandra",
         "img": "img/hambi-4.jpg",
+        "pozicio": "mesterfodrász és alkalmi haj specialista",
         "nyitvatartas": [
             {
                 "nap": "Hétfő",
@@ -181,6 +185,7 @@
         "id": 5,
         "nev": "Petris Hanna",
         "img": "img/hambi-2.jpg",
+        "pozicio": "női és gyermek fodrász",
         "nyitvatartas": [
             {
                 "nap": "Kedd",
