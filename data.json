@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nev": "Vásáry Izabella",
-        "img": "img/fodrasz-5.jpg",
+        "img": "./img/fodrasz-5.jpg",
         "pozicio": "mesterfodrász és hajápolási szakértő",
         "nyitvatartas": [
             {
@@ -90,6 +90,17 @@
             {
                 "datum": "2023.09.03",
                 "ora": "11:00"
+            },            {
+                "datum": "2023.09.01",
+                "ora": "9:30"
+            },
+            {
+                "datum": "2023.09.01",
+                "ora": "10:00"
+            },
+            {
+                "datum": "2023.09.01",
+                "ora": "10:30"
             }
         ],
         "foglalas": [
