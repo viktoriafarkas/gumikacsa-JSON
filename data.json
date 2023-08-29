@@ -1,0 +1,207 @@
+[
+    {
+        "nev": "Vásáry Izabella",
+        "nyitvatartas": [
+            {
+                "nap": "Hétfő",
+                "napIndex": 1,
+                "tol": "10:00",
+                "ig": "18:00"
+            },
+            {
+                "nap": "Kedd",
+                "napIndex": 2,
+                "tol": "8:00",
+                "ig": "14:00"
+            },
+            {
+                "nap": "Szerda",
+                "napIndex": 3,
+                "tol": "10:00",
+                "ig": "18:00"
+            },
+            {
+                "nap": "Péntek",
+                "napIndex": 5,
+                "tol": "10:00",
+                "ig": "20:00"
+            },
+            {
+                "nap": "Szombat",
+                "napIndex": 6,
+                "tol": "8:00",
+                "ig": "12:00"
+            }
+        ],
+        "foglalas": [
+            {
+                "vendegNev": "Kovács Csilla",
+                "datum": "2023.08.23",
+                "ora": "10:00"
+            },
+            {
+                "vendegNev": "Nagy Gertrúd",
+                "datum": "2023.08.23",
+                "ora": "14:00"
+            }
+        ]
+    },
+    {
+        "nev": "Mester Manó",
+        "nyitvatartas": [
+            {
+                "nap": "Hétfő",
+                "napIndex": 1,
+                "tol": "9:00",
+                "ig": "17:00"
+            },
+            {
+                "nap": "Kedd",
+                "napIndex": 2,
+                "tol": "9:00",
+                "ig": "17:00"
+            },
+            {
+                "nap": "Szerda",
+                "napIndex": 3,
+                "tol": "9:00",
+                "ig": "17:00"
+            },
+            {
+                "nap": "Csütörtök",
+                "napIndex": 4,
+                "tol": "9:00",
+                "ig": "17:00"
+            },
+            {
+                "nap": "Péntek",
+                "napIndex": 5,
+                "tol": "9:00",
+                "ig": "17:00"
+            }
+        ],
+        "foglalas": [
+            {
+                "vendegNev": "Kis Anna",
+                "datum": "2023.08.25",
+                "ora": "15:00"
+            },
+            {
+                "vendegNev": "Németh Béla",
+                "datum": "2023.08.26",
+                "ora": "12:00"
+            }
+        ]
+    },
+    {
+        "nev": "Hegyi Henrietta",
+        "nyitvatartas": [
+            {
+                "nap": "Hétfő",
+                "napIndex": 1,
+                "tol": "12:00",
+                "ig": "20:00"
+            },
+            {
+                "nap": "Szerda",
+                "napIndex": 3,
+                "tol": "12:00",
+                "ig": "20:00"
+            },
+            {
+                "nap": "Péntek",
+                "napIndex": 5,
+                "tol": "12:00",
+                "ig": "20:00"
+            }
+        ],
+        "foglalas": [
+            {
+                "vendegNev": "Tóth Gábor",
+                "datum": "2023.09.01",
+                "ora": "18:00"
+            },
+            {
+                "vendegNev": "Kovácsné Eszter",
+                "datum": "2023.09.03",
+                "ora": "15:30"
+            }
+        ]
+    },
+    {
+        "nev": "Vígh Szandra",
+        "nyitvatartas": [
+            {
+                "nap": "Hétfő",
+                "napIndex": 1,
+                "tol": "11:00",
+                "ig": "19:00"
+            },
+            {
+                "nap": "Szerda",
+                "napIndex": 3,
+                "tol": "11:00",
+                "ig": "19:00"
+            },
+            {
+                "nap": "Péntek",
+                "napIndex": 5,
+                "tol": "11:00",
+                "ig": "19:00"
+            },
+            {
+                "nap": "Szombat",
+                "napIndex": 6,
+                "tol": "10:00",
+                "ig": "14:00"
+            }
+        ],
+        "foglalas": [
+            {
+                "vendegNev": "Horváth Péter",
+                "datum": "2023.09.10",
+                "ora": "14:00"
+            },
+            {
+                "vendegNev": "Kiss Virág",
+                "datum": "2023.09.10",
+                "ora": "16:00"
+            }
+        ]
+    },
+    {
+        "nev": "Petris Hanna",
+        "nyitvatartas": [
+            {
+                "nap": "Kedd",
+                "napIndex": 2,
+                "tol": "10:00",
+                "ig": "18:00"
+            },
+            {
+                "nap": "Csütörtök",
+                "napIndex": 4,
+                "tol": "10:00",
+                "ig": "18:00"
+            },
+            {
+                "nap": "Szombat",
+                "napIndex": 6,
+                "tol": "8:00",
+                "ig": "14:00"
+            }
+        ],
+        "foglalas": [
+            {
+                "vendegNev": "Szabó Mária",
+                "datum": "2023.08.31",
+                "ora": "11:30"
+            },
+            {
+                "vendegNev": "Király Levente",
+                "datum": "2023.09.02",
+                "ora": "13:00"
+            }
+        ]
+    }
+]
