@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nev": "Vásáry Izabella",
-        "img": "./img/fodrasz-5.jpg",
+        "img": "fodraszok/fodrasz-1.jpg",
         "pozicio": "mesterfodrász és hajápolási szakértő",
         "nyitvatartas": [
             {
